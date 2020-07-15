@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Agent Banking Channels</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="pwd_length">Password Minimum length is 6</string>
+
+    <string name="services">\t  Banking can now be local to digitally engaged customers worldwide. Customers are all embracing brands that provide the ability to open and use accounts 24/7/365 without visiting a local branch.\n\n
+One such approach is to involve local neighborhood stores to provide banking services digitally. \n\n Agent Banking help customers to deposit or withdraw money or inquire about their account balance.\n
+\n Customers shall feel the convenience of banking in retail outlet contracted by a financial institution to process the transactions.</string>
+
+</resources>
